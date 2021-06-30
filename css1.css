@@ -1,0 +1,235 @@
+/*
+//Teodora Stoilovska 201076
+*/
+
+/*
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Home
+*/
+
+body{
+    background-color: #dddddd;
+    font-size: 16px;
+    font-family: Brush Script MT,cursive;
+}
+
+#Teodora{
+    color: deeppink;
+    letter-spacing: 2px;
+    height:100px;
+    margin-left: 88px;
+    margin-top: 25px;
+    font-size: 20px;
+    font-family: Brush Script MT,cursive;
+    position: absolute;
+}
+
+#headerid ul li
+{
+    list-style-type: none;
+    display: inline;
+    padding-left: 60px;
+}
+#headerid ul li a
+{
+    text-decoration: none;
+    color: #666666;
+    font-size: 18px;
+}
+#headerid ul{
+    width: 795px;
+    height: 36px;
+    margin-left: 470px;
+    margin-top: -7px;
+    padding-top: 28px;
+}
+#img1
+{
+    width: 304px;
+    height: 402px;
+    margin-left: 96px;
+    margin-top: 40px;
+}
+
+#biografija
+{
+    margin-left: 581px;
+    margin-top: -380px;
+    text-align: justify;
+    height: 245px;
+    font-size: 18px;
+}
+.biografija2
+{
+    background-color: skyblue;
+    width: 310px;
+    display: inline-block;
+    height: 49px;
+    border-radius: 4px;
+    margin-left: 110px;
+    font-size: 16px;
+}
+
+#prevzemanje
+{
+    text-decoration: none;
+    color: deeppink;
+    font-weight: bold;
+    margin-top: 11px;
+    margin-left: 4px;
+    display: grid;
+    word-spacing: 1px;
+}
+/* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+    Education
+ */
+
+#education ul li
+{
+    list-style-type: none;
+    margin-top: 14px;
+}
+#education ul
+{
+    margin-left: 414px;
+    margin-top: 25px;
+}
+
+#img2hat1
+{
+    margin-top: -101px;
+    margin-left: -58px;
+}
+#img2hat2{
+    margin-top: -43px;
+    margin-left: -56px;
+}
+#img2hat3{
+    margin-top: 7px;
+    margin-left: -57px;
+}
+/* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+    Success
+ */
+
+#natprevari
+{
+    margin-top: 50px;
+    margin-left: 561px;
+}
+.Dabar
+{
+    float: right;
+    position: absolute;
+    margin-top: -481px;
+    margin-left: 200px;
+}
+#certifikate
+{
+    background-color: skyblue;
+    color: deeppink;
+    width: 270px;
+    height: 40px;
+    border-radius: 5px;
+    margin-left: 660px;
+    display: inline-block;
+
+}
+/* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+    Skills
+ */
+
+
+.container {
+    width: 100%;
+    background-color: #ddd;
+}
+
+.skills {
+    text-align: right;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+}
+
+.html {width: 90%; background-color: #04AA6D;}
+.css {width: 75%; background-color: #2196F3;}
+.cplus {width: 70%; background-color: #f44336;}
+.c {width: 60%; background-color: deeppink}
+
+/* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+    Contact
+ */
+
+.Nameinput
+{
+    color: deeppink;
+    border-color: skyblue;
+    font-size: 18px;
+    margin-left: 500px;
+    margin-top: 30px;
+    width: 600px;
+    height: 35px;
+}
+
+.Nametextarea
+{
+    color: deeppink;
+    border-color: skyblue;
+    font-size: 18px;
+    margin-left: 500px;
+    margin-top: 30px;
+    width: 600px;
+    height: 200px;
+}
+
+.submit
+{
+    color: deeppink;
+    border-color: skyblue;
+    font-size: 18px;
+    margin-left: 500px;
+    margin-top: 30px;
+    border-radius: 4px;
+
+}
+
+#adresa
+{
+    float: right;
+    margin-top: 8px;
+    margin-right: 105px;
+}
+
+#img6
+{
+    width: 40px;
+    height: 40px;
+    margin-right: 15px;
+    margin-left: -55px;
+    position: absolute;
+}
+
+#kontakt
+{
+    float: right;
+    margin-top: 65px;
+    margin-right: -283px;
+}
+
+#insta
+{
+    margin-left: 50px;
+    margin-top: -45px;
+}
+
+#phone
+{
+    margin-left: 100px;
+    margin-top: -45px;
+}
+#map{
+    margin-left: 1000px;
+    margin-top: 16px;
+    padding-bottom: 15px;
+}
